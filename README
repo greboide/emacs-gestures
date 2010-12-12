@@ -1,4 +1,5 @@
 This is a project to develop a standard vocabulary of touch/pen
 gesture commands for GNU Emacs' existing strokes-mode support.
 
-See gestures.el for more information.
+See gestures.el for more information, or watch the video:
+http://www.youtube.com/watch?v=lw8SQqmHPbI
